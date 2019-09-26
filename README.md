@@ -1,3 +1,3 @@
 # hackerrank
 
-Select solutions to some HackerRank problems
+Solutions to select HackerRank problems
