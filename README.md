@@ -1,4 +1,4 @@
-# problems
+# codingProblems
 
 Solutions to select HackerRank, Leetcode, and other coding challenges problems.
 
